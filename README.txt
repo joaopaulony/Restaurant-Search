@@ -19,6 +19,13 @@ vamos utilizar a API deles para construir algo bem parecido, acharemos restauran
 
 - com a utilização de styled components vamos usar o styled-reset, pacote npm, basicamente ele reseta todas as configurações padrão dos navegadores, zeramos tudo e aplicamos de acordo com nosso estilo.
 
+2: Desenvolvimento do conteudo lateral:
+- Criamos dentro do styles.js o container styled.aside com as propriedades da barra lateral esquerda da nossa aplicação e tambem as propriedades de estilização do Search.
+
+- Criação do buscador utilizando um componente de input de texto para buscas, yarn add @material/react-text-field
+- setando a versão outlined no nosso imput como propriedade dentro do container
+
+- usamos o comando yarn add @material/react-material-icon para instalar as dependencias do icone do nosso search e importamos o css dele.
 
  
 
