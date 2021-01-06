@@ -4,26 +4,30 @@ import MaterialIcon from '@material/react-material-icon';
 
 import logo from '../../assets/logo.svg';
 
-import { Container, Search, Logo } from './styles';
+import { Container, Search, Logo, Wrapper, Map, CarouselTitle } from './styles';
 
 const Home = () => {
     const [inputValue, setInputValue] = useState('');
     return (
-    <Container>
-        <Search>
-            <Logo src={logo} alt="Logo do restaurante" />
-            <TextField
-          label="Pesquisar"
-          outlined
-          // onTrailingIconSelect={() => this.setState({value: ''})}
-          trailingIcon={<MaterialIcon role="button" icon="search"/>}>
-        <Input
-           value={inputValue}
-           onChange={(e) => setInputValue(e.target.value)} 
-           />
-        </TextField>
-        </Search>
-    </Container>
+    <Wrapper>
+        <Container>
+            <Search>
+                <Logo src={logo} alt="Logo do restaurante" />
+                <TextField
+            label="Pesquisar"
+            outlined
+            // onTrailingIconSelect={() => this.setState({value: ''})}
+            trailingIcon={<MaterialIcon role="button" icon="search"/>}>
+            <Input
+            value={inputValue}
+            onChange={(e) => setInputValue(e.target.value)} 
+            />
+            </TextField>
+            <CarouselTitle>Na sua Área</CarouselTitle>
+            </Search>
+        </Container>
+        <Map />
+    </Wrapper>
     );
 };
 

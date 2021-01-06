@@ -26,8 +26,17 @@ vamos utilizar a API deles para construir algo bem parecido, acharemos restauran
 - setando a versão outlined no nosso imput como propriedade dentro do container
 
 - usamos o comando yarn add @material/react-material-icon para instalar as dependencias do icone do nosso search e importamos o css dele.
+ - Instalação de fonte Roboto Google Fonts por Link.
 
- 
+3: Desenvolvimento do Carousel:
+
+- instalação da biblioteca/dependencias react slick ' yarn add react-slick ' e do slick carousel ' yarn add slick-carousel '
+- importação do css da biblioteca do react-slick
+
+
+
+
+
 
 2: Desenvolvimento dos componentes:
 
