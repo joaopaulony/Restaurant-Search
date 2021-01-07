@@ -32,6 +32,15 @@ vamos utilizar a API deles para construir algo bem parecido, acharemos restauran
 
 - instalação da biblioteca/dependencias react slick ' yarn add react-slick ' e do slick carousel ' yarn add slick-carousel '
 - importação do css da biblioteca do react-slick
+- estilizando e finalizando o carousel
+
+4: Desenvolvimento de componentes:
+
+-criação do restaurant card e seu styles e propriedades
+
+
+
+< parei no implementação carousel parte 3 >
 
 
 
