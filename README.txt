@@ -36,11 +36,21 @@ vamos utilizar a API deles para construir algo bem parecido, acharemos restauran
 
 4: Desenvolvimento de componentes:
 
--criação do restaurant card e seu styles e propriedades
+- criação do restaurant card e seu styles e propriedades
+- criação do RestaurantInfo style.div 
+- criação do Adreess styled.span e do Title styled.span
+
+- instalação da biblioteca react-rating-stars-component com yarn
+
+- criação da pasta modal > portal > arquivo index.jsx
+- implementando a modal na Home
+
+5: Criação do projeto no google e overview da API
+REACT_APP_GOOGLE_API_KEY=AIzaSyA3-VEy0VnrVAXjlChxfqaZ89jCbeyMgts (tirar isso dps)
+
+6: Inicio da implementação do mapa:
 
 
-
-< parei no implementação carousel parte 3 >
 
 
 
