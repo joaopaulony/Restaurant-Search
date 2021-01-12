@@ -49,6 +49,12 @@ vamos utilizar a API deles para construir algo bem parecido, acharemos restauran
 REACT_APP_GOOGLE_API_KEY=AIzaSyA3-VEy0VnrVAXjlChxfqaZ89jCbeyMgts (tirar isso dps)
 
 6: Inicio da implementação do mapa:
+- implementndo busca de restaurantes proximos
+- concluindo a busca de restaurantes e introduzindo Redux
+
+7: implementação do marker dos restaurantes no mapa: 
+
+
 
 
 
