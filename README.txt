@@ -54,8 +54,10 @@ REACT_APP_GOOGLE_API_KEY=AIzaSyA3-VEy0VnrVAXjlChxfqaZ89jCbeyMgts (tirar isso dps
 
 7: implementação do marker dos restaurantes no mapa: 
 
+8: Implementação dos detalhes do restaurante:
+- configurando card de detalhes dos restaurantes e configurando propriedades
 
-
+9: setando animações, loader e implementando react-lottie:
 
 
 
