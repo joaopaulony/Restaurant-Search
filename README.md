@@ -4,7 +4,7 @@ Este projeto foi inicializado com o [Create React App.](https://github.com/faceb
 
 ## 🚀 Começando
 **DEPLOY DO PROJETO:**
-[RESTAURANT-FINDER](https://joaopaulo-restaurant-finder.netlify.app)
+[RESTAURANT-SEARCH](https://joaopaulo-restaurant-finder.netlify.app)
 
 No diretório do projeto, você pode executar:
 ```
