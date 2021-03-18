@@ -1,68 +1,86 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Restaurant Search
 
-## Available Scripts
+Este projeto foi inicializado com o [Create React App.](https://github.com/facebook/create-react-app)
 
-In the project directory, you can run:
+## 🚀 Começando
 
-### `yarn start`
+No diretório do projeto, você pode executar:
+```
+yarn start
+```
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Consulte **Implantação** para saber como implantar o projeto.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### 📋 Pré-requisitos
 
-### `yarn test`
+De que coisas você precisa para instalar o software e como instalá-lo?
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+Não é necessário nenhum software, pós baixado o repositorio você poderá executalo em localhost
+```
 
-### `yarn build`
+### 🔧 Instalação
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+etapa:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+yarn start
+```
 
-### `yarn eject`
+Executa o aplicativo no modo de desenvolvimento.
+Abra **http: // localhost: 3000** para visualizá-lo no navegador.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+A página será recarregada se você fizer edições.
+Você também verá quaisquer erros de lint no console.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ⚙️ Executando os testes
+```
+yarn test
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Inicia o executor de teste no modo de observação interativo.
+Consulte a seção sobre execução de testes para obter mais informações.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### 🔩 Compila o aplicativo para produção na **build** pasta.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+yarn build
+```
+Compila o aplicativo para produção na buildpasta.
+Ele agrupa corretamente o React no modo de produção e otimiza a construção para o melhor desempenho.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+A compilação é reduzida e os nomes dos arquivos incluem os hashes.
+Seu aplicativo está pronto para ser implantado!
 
-### Code Splitting
+Consulte a seção sobre implantação para obter mais informações.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+## 🛠️ Construído com
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Ferramentas que usei para criar o projeto
 
-### Making a Progressive Web App
+* [REACT](https://reactjs.org/) - A JavaScript library for building user interface
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## 🖇️ Colaborando
 
-### Advanced Configuration
+Esse projeto foi disponibilizado pela Digital Innovation One para aprendizado, sobre a mentoria de **Patrick Narciso** .
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## 📌 Versão
 
-### Deployment
+Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, atualmente essa é a primeira versão do projeto. 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `yarn build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢
+* Convide alguém da equipe para uma cerveja 🍺 
+* Obrigado publicamente 🤓.
+* etc.
+
+
+---
+⌨️ com ❤️ por [João Paulo Candido da Silva](https://github.com/joaopaulony) 😊
