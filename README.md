@@ -3,6 +3,10 @@
 Este projeto foi inicializado com o [Create React App.](https://github.com/facebook/create-react-app)
 
 ## 🚀 Começando
+**DEPLOY DO PROJETO:**
+```
+[RESTAURANT-FINDER](https://joaopaulo-restaurant-finder.netlify.app)
+```
 
 No diretório do projeto, você pode executar:
 ```
